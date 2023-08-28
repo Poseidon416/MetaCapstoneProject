@@ -1,8 +1,8 @@
 # MetaCapstoneProject
 
-http://127.0.0.1:8000/restaurant/menu/
-http://127.0.0.1:8000/restaurant/booking/tables
+- http://127.0.0.1:8000/restaurant/menu/
+- http://127.0.0.1:8000/restaurant/booking/tables
 
 ADMIN:
-user:  admin1
-password:  password@123
+- user:  admin1
+- password:  password@123
